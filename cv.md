@@ -33,5 +33,21 @@ function fib(n) {
 }
 fib(3)
 ```
+##Experience
 
+---
+Work in the company macrom CRM 6 months. Using such tools as React, Redux , TypeScrip
+##Education
+
+---
+###Courses:
+  >HTML Academy</br>
+  > Learn-js</br>
+  > It-inkubator
+
+##English
+
+---
+
+**A2**(In progress)
 
