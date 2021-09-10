@@ -1,0 +1,96 @@
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    box-shadow: #decfcf;
+    padding: 10px;
+}
+.app {
+    width: 50%;
+    display: grid;
+    grid-template-areas:
+    'nav aside aside'
+    'footer footer footer';
+    grid-template-columns: 0.2fr 11fr;
+    text-align: center;
+}
+
+hr{
+    color:gray;
+    width: 300px;
+}
+
+nav {
+    background-color: #EFEFEF;
+}
+
+aside {
+    background-color: rgba(204, 173, 173, 0.13);
+    grid-area: aside;
+}
+
+
+footer {
+    background-color: #EFEFEF;
+    grid-area: footer;
+    margin-top:30%;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: 30px;
+}
+footer img{
+    width: 25px;
+    height: 25px;
+}
+.navbar{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.photo img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-top: 30px;
+}
+.profile{
+    margin-top: 30px;
+    font-size: 20px;
+}
+.contact{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    text-align: left;
+    margin-top: 30px;
+}
+.contact a{
+    text-decoration: none;
+}
+.contact img{
+    padding-right: 10px;
+    width:20px;
+    height: 20px;
+}
+.experience{
+    margin-top: 30px;
+    font-size: 18px;
+}
+.skills {
+    margin-top: 20px;
+}
+.skills li{
+text-align: left;
+}
+.education{
+    text-align: left;
+    margin-left: 30px;
+}
+.language{
+    margin-left: 20%;
+    text-align: left;
+}
