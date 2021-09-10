@@ -1,2 +1,2 @@
 # rsschool-cv
-https://AntonPuY25.github.io/rsschool-cv/tree/gh-pages
+https://github.com/AntonPuY25/rsschool-cv/tree/gh-pages
